@@ -6,6 +6,7 @@ thereby enhancing the quality of MRI images.
 
 ![Model Framwork](./SUPERCLEAN-framework.png)  
 
+The following iamges shows the noise surresion result comparing to original images.
 ![Alt 1](./ML_Denoising_RS027.png)  ![Alt 2](./ML_Denoising_RS052.png)  ![Alt 3](./ML_Denoising_RS067.png) 
 ![Alt 1](./ML_Denoising_RS073.png)  ![Alt 2](./ML_Denoising_RS075.png)  ![Alt 3](./ML_Denoising_RS076.png) 
 ![Alt 2](./SUPERCLEAN_RS027.png)  ![Alt 3](./SUPERCLEAN_RS052.png) ![Alt 3](./phantom.png) 
