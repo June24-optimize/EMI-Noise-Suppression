@@ -3,7 +3,11 @@ Deep learning (DL) techniques are increasingly being utilized in MRI processing,
 
 This project (named SUPERCLEAN) proposed a novel self supervised learning technique that addresses these challenges. 
 This approach aims to reduce the dependency on large training datasets and improve robustness against domain shifts, 
-ensuring more reliable EMI mitigation in ULF MRI systems. Neural networks trained on extensive MRI data, 
+ensuring more reliable EMI mitigation in ULF MRI systems. 
+![low field scanner](./scanner.jpeg) 
+
+
+Neural networks trained on extensive MRI data, 
 including both nuclear magnetic resonance (NMR) signals and EMI signatures, can accurately distinguish between true MRI signals and interference, 
 thereby enhancing the quality of MRI images. The following figure is the network architecture of SUPERCLEAN.
 
